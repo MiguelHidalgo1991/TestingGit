@@ -3,6 +3,7 @@ public class ClaseUno {
 	
 	int propiedadUno;
 	double propiedaddos;
+	String holaMarcos="Hola holita";
 	
 	public ClaseUno() {
 		System.out.println("Creando ClaseUno...asas");
